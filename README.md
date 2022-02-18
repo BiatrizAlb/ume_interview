@@ -17,7 +17,7 @@ A imagem acima refere-se aos resultados do modelo Gradient Boosting, o qual apre
 ## Fluxo de construção do modelo
 
 ```mermaid
-  graph TD;
+  flowchart TD;
       A[Análise Inicial dos Dados] --> G[Tratamento específico dos dados];
       G --> H[Separação em treino e teste];
       H -- Treino, Teste --> I[Random Forest Classifier];
