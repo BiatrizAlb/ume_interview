@@ -1,0 +1,19 @@
+varname,description
+refdate,Data de referência (forma YYYY-MM-DD)
+demo_age,Idade
+demo_gender,Gênero
+demo_marital_status,Estado civil
+demo_schooling,Escolaridade
+demo_residence_time,Tempo de residência
+demo_residence_kind,Tipo de residência
+job_formal,Tem emprego formal?
+job_retired,Aposentado?
+job_employment_time,Tempo empregado
+job_kind,Tipo de emprego
+job_employment_experience,Experiência em emprego
+income_social_benefits,Recebe auxílio social?
+income_salary,Salário declarado
+debt_profile,Perfil como pagador
+debt_prev_history,Já foi mau pagador no mercado?
+debt_bureau_score,Escore de crédito no mercado (NaN = desconhecido)
+target,Mau pagador? (1 se mau pagador)
